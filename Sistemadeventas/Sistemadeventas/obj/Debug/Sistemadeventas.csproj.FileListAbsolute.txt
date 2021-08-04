@@ -1,0 +1,10 @@
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\bin\Debug\Sistemadeventas.exe.config
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\bin\Debug\Sistemadeventas.exe
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\bin\Debug\Sistemadeventas.pdb
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\obj\Debug\Sistemadeventas.csprojAssemblyReference.cache
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\obj\Debug\Sistemadeventas.Usuarios.resources
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\obj\Debug\Sistemadeventas.Properties.Resources.resources
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\obj\Debug\Sistemadeventas.csproj.GenerateResource.cache
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\obj\Debug\Sistemadeventas.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\obj\Debug\Sistemadeventas.exe
+D:\Escritorio\Proyectos ASP.NET\Sistemadeventas\Sistemadeventas\obj\Debug\Sistemadeventas.pdb
