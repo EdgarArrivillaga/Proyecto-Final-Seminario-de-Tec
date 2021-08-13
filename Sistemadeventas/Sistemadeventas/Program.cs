@@ -8,7 +8,7 @@ namespace Sistemadeventas
 {
     static class Program
     {
-        /// <summary>
+        /// <summary> hola es una prueba
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]
